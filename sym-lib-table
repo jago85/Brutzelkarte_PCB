@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name lattice1)(type Legacy)(uri ${KIPRJMOD}/libs/lattice1.lib)(options "")(descr ""))
+  (lib (name alliance_memory)(type Legacy)(uri ${KIPRJMOD}/libs/alliance_memory.lib)(options "")(descr ""))
+  (lib (name cypress1)(type Legacy)(uri ${KIPRJMOD}/libs/cypress1.lib)(options "")(descr ""))
+  (lib (name issi)(type Legacy)(uri ${KIPRJMOD}/libs/issi.lib)(options "")(descr ""))
+  (lib (name oscillators1)(type Legacy)(uri ${KIPRJMOD}/libs/oscillators1.lib)(options "")(descr ""))
+  (lib (name texas_instruments)(type Legacy)(uri ${KIPRJMOD}/libs/texas_instruments.lib)(options "")(descr ""))
+  (lib (name winbond)(type Legacy)(uri ${KIPRJMOD}/libs/winbond.lib)(options "")(descr ""))
+  (lib (name n64-cartridge)(type Legacy)(uri ${KIPRJMOD}/libs/n64-cartridge.lib)(options "")(descr ""))
+)
